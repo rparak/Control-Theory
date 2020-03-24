@@ -53,5 +53,8 @@ Link: https://www.vutbr.cz/en/students/courses/detail/213498
 
 Link: https://matlabacademy.mathworks.com
 
+## Contact Info:
+Roman.Parak@outlook.com
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
