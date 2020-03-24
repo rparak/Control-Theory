@@ -6,16 +6,16 @@ The introduction to the classical control theory is presented in the course. We 
 
 Link: https://www.vutbr.cz/en/students/courses/detail/213981
 
-* SYLLABUS:
+SYLLABUS:
 
- * 2-DOF, Identification systems, Genetic algorithm
-Automation Studio	
-Branched control circuits	
-Digital control system	
-Inverted pendulum	
-Project	Add files via upload
-Transfer Function, PID controller
-Ziegler-Nichols method 1 and 2, Root-Locus
+* 2-DOF, Identification systems, Genetic algorithm
+* Automation Studio	
+* Branched control circuits	
+* Digital control system	
+* Inverted pendulum	
+* Project
+* Transfer Function, PID controller
+* Ziegler-Nichols method 1 and 2, Root-Locus
 
 ## Control Theory II (VA2):
 
