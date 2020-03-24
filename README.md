@@ -6,7 +6,7 @@ The introduction to the classical control theory is presented in the course. We 
 
 Link: https://www.vutbr.cz/en/students/courses/detail/213981
 
-**SYLLABUS:
+** SYLLABUS:
 
 2-DOF, Identification systems, Genetic algorithm
 Automation Studio	
